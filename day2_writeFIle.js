@@ -10,7 +10,6 @@ function writeToFile(filePath, content) {
         }
     });
 }
-
 // Test Cases
 writeToFile('NODEJS_SCALER_CHALLANGE/DAY2/output1.txt', 'Sample content.');
 // Expected Output: Data written to output1.txt
